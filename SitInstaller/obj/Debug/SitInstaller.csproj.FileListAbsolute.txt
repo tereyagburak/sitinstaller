@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\bin\Debug\SitInstaller.exe.config
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\bin\Debug\SitInstaller.exe
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\bin\Debug\SitInstaller.pdb
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\obj\Debug\SitInstaller.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\obj\Debug\SitInstaller.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\obj\Debug\SitInstaller.exe
+C:\Users\burak\source\repos\SitInstaller\SitInstaller\obj\Debug\SitInstaller.pdb
