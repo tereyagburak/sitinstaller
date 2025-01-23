@@ -1,3 +1,5 @@
+### SitInstaller artık geliştirilmiyor. Çünkü SitWatch artık bir indirme butonuna sahip.
+
 # SitInstaller
 
 https://sitwatch.net 'ten video linkini girersiniz, o da size videoyu indirir. 
